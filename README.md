@@ -1,8 +1,25 @@
 # Data Science Roadmap
 
-<img align="center" alt="ds" src="https://raw.githubusercontent.com/cr00z/datascience_roadmap/master/images/ds.jpeg" width="600" height="250" />
+<img align="center" alt="ds" src="https://raw.githubusercontent.com/cr00z/datascience_roadmap/master/images/ds.jpeg" width="800" height="300" />
 
 My roadmap to study Data Science.
+
+## Others
+
+### Kaggle
+| URL | Title | Status |
+| :---: | --- | :---: |
+| [Kaggle](https://www.kaggle.com/learn/python) | Python | **Completed** |
+| [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning) | Intro to Machine Learning | **Completed** |
+| [Kaggle](https://www.kaggle.com/learn/pandas) | Pandas | **Completed** |
+| [Kaggle](https://www.kaggle.com/learn/intermediate-machine-learning) | Intermediate Machine Learning | **Completed** |
+
+
+| URL | Title | Status |
+| :---: | --- | :---: |
+| [Coursera](https://www.coursera.org/learn/data-scientists-tools) | Набор инструментальных средств для специалистов по обработке данных | **Completed** |
+| [Stepik](https://stepik.org/course/74457/) | Демо KarpovCourses Аналитик данных | **Completed** |
+
 
 ## Mathematics
 
@@ -35,6 +52,7 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
+| https://pythontutor.ru/ | Питонтьютор. Бесплатный курс по программированию с нуля | **Completed** |
 | [Stepik](https://stepik.org/course/67) | Программирование на Python | **Completed** |
 | [Stepik](https://stepik.org/course/512) | Python: основы и применение | *In Progress* |
 
@@ -67,6 +85,7 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
+| [Stepik]https://stepik.org/course/101721 | Deep Learning (семестр 1, осень 2021): продвинутый поток | *In Progress* | 
 
 #### Books
 | Title | Author | Status |
