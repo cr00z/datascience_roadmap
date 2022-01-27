@@ -85,7 +85,7 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Stepik]https://stepik.org/course/101721 | Deep Learning (семестр 1, осень 2021): продвинутый поток | *In Progress* | 
+| [Stepik](https://stepik.org/course/101721) | Deep Learning (семестр 1, осень 2021): продвинутый поток | *In Progress* | 
 
 #### Books
 | Title | Author | Status |
