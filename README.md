@@ -54,7 +54,7 @@ My roadmap to study Data Science.
 | :---: | --- | :---: |
 | https://pythontutor.ru/ | Питонтьютор. Бесплатный курс по программированию с нуля | **Completed** |
 | [Stepik](https://stepik.org/course/67) | Программирование на Python | **Completed** |
-| [Stepik](https://stepik.org/course/512) | Python: основы и применение | *In Progress* |
+| [Stepik](https://stepik.org/course/512) | Python: основы и применение | **Completed** |
 
 ### R
 #### Courses
